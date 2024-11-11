@@ -7,4 +7,4 @@
                     game.workspace.CurrentCamera.FieldOfView = 120					  
                 end
             end
-        end
+      
