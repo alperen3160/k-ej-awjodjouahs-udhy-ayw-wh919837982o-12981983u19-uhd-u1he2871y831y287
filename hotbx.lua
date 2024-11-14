@@ -23,5 +23,7 @@ if k.KeyCode == Enum.KeyCode[Key] then
 end
     end        
     end
-end 
-                Notify({Title="Proxies Hitbox msg";Text="u see no work close and trun on (press k) "..game.Players.LocalPlayer.Name})
+end    
+end)
+
+Notify({Title="Proxies Hitbox msg";Text="u see no work close and trun on (press k) "..game.Players.LocalPlayer.Name})
